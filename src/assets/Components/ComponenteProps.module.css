@@ -1,0 +1,18 @@
+.corpo_texto{
+    position: absolute;
+    width: 450px;
+    height: auto;
+    background-color: #fff;
+    color: #333;
+    text-align: center;
+    padding: 15px;
+    top:100px;
+    margin-left: 850px;
+    font-size: 20px;
+    border-radius: 10px;
+    padding-top: 30px;
+}
+
+.img{
+    width:50px;
+}
