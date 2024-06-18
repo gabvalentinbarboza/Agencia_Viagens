@@ -5,8 +5,8 @@ import ComponenteProps from './ComponenteProps'
 function Escocia(){
     return(
         <div className={styles.container}>
-           <ComponenteProps/>
-        </div>
+        <h1>Venha conhecer a beleza da Escócia</h1>
+    </div>
     )
 }
 
